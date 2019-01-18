@@ -1,6 +1,7 @@
 * {
   margin:0px;
   padding:0px;
+  background: rgb(176, 200, 156);
 }
 
 #octocat {
@@ -11,7 +12,7 @@
 
 p {
   color: red;
-  background: blue;
+  
   display: block;
   width: 400px;
   margin: 50px auto;
